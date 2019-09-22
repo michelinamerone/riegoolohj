@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://audaivoowu.lorna-stevens.com/sitemap.xml
